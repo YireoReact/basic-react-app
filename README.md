@@ -15,4 +15,4 @@ Now, your project should be good to go. Start the webserver:
 npm start
 ```
 
-And then open the page http://localhost:3000 to see a basic React app.
+And then open the page http://localhost:8080 to see a basic React app.
